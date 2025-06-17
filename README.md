@@ -36,5 +36,5 @@ npm run build
 
 ## 🌐 Deployment
 
-The app is deployed at: [https://your-netlify-site.netlify.app](https://your-netlify-site.netlify.app)
+The app is deployed at: [https://warm-treacle-a78c96.netlify.app/](https://warm-treacle-a78c96.netlify.app/)
 
